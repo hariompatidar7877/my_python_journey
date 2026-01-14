@@ -1,0 +1,11 @@
+a = 2
+aaa = 2554
+hariom = 2356
+_hariom = 22
+hari_om = 1289
+hari12 = 123
+# 12hariom = 123 # ham variable ko jab define karte hai to ushe number se start nahi kar sakte hai 
+# h@riom = 123 
+# @hariom = 123456789  kabhi bhi ham specal carater se bhi start nahi kar sakte hai  
+# $hariom = 123
+# haro$om = 123 ham mid me bhi use nahi kar sakte hai 
