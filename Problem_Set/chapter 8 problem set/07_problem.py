@@ -11,5 +11,6 @@ print(rem(l,"an"))
 OUTPUT
 ['Hariom', 'Roh', 'Ved']
 
+
 """
 
