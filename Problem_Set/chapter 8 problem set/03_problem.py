@@ -8,4 +8,5 @@ OUTPUT
 A
 B
 CD
+
 """
