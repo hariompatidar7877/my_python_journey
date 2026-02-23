@@ -6,3 +6,9 @@ words = {
 word = input("Enter the words you want meaning of : ")
 a = word
 print(words [a])
+
+"""
+OUTPUT
+Enter the words you want meaning of : madad
+Help
+"""
